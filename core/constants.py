@@ -19,7 +19,7 @@ PYTHON_QUESTION_LIST = [
     },
     {
       "question_text": "Which of the following is used to comment a single line in Python?",
-      "options": ["# Comment", "// Comment", "/* Comment */", "<!-- Comment -->"],
+      "options": ["# Comment", "// Comment", "/* Comment */", "&lt;!-- Comment --&gt"],
       "answer": "# Comment",
     },
     {
